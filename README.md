@@ -14,6 +14,11 @@ This is the official implementation of the FATFusion model proposed in the paper
 <li>pandas</li>
 </ul>
 
+# Trained Model
+The trained model is <a style="color: #447ec9; text-decoration:none" onmouseover="this.style.color='#FF0000'" 
+          onmouseout="this.style.color='#447ec9'" href="[https://authors.elsevier.com/c/1ikLz15hYdxvJR](https://drive.google.com/drive/folders/137ntn1LPZt67gg-fP5yI5XN1QO37Qyhb)">
+          HERE</a> 
+
 # Cite the paper
 If this work is helpful to you, please cite it as:</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@ARTICLE{Tang_2024_FATFusion,
