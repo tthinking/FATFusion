@@ -17,6 +17,8 @@ This is the official implementation of the FATFusion model proposed in the paper
 # Trained Model
 The trained model is [here]([http://www.med.harvard.edu/AANLIB/home.html](https://drive.google.com/drive/folders/137ntn1LPZt67gg-fP5yI5XN1QO37Qyhb))
 
+<strong>Dataset is </strong> [here](http://www.med.harvard.edu/AANLIB/home.html).
+
 # Cite the paper
 If this work is helpful to you, please cite it as:</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@ARTICLE{Tang_2024_FATFusion,
