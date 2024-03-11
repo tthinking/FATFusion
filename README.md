@@ -14,10 +14,14 @@ This is the official implementation of the FATFusion model proposed in the paper
 <li>pandas</li>
 </ul>
 
-# Trained Model
-The trained model is [here]([http://www.med.harvard.edu/AANLIB/home.html](https://drive.google.com/drive/folders/137ntn1LPZt67gg-fP5yI5XN1QO37Qyhb))
+# Tips:
+<strong>Dealing with RGB input:</strong>
+Refer to [DPCN-Fusion](https://github.com/tthinking/DPCN-Fusion/blob/master/test.py).
 
 <strong>Dataset is </strong> [here](http://www.med.harvard.edu/AANLIB/home.html).
+
+The <strong>Trained Model</strong> is [here](https://drive.google.com/drive/folders/137ntn1LPZt67gg-fP5yI5XN1QO37Qyhb).
+
 
 # Cite the paper
 If this work is helpful to you, please cite it as:</p>
