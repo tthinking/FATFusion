@@ -32,7 +32,7 @@ If this work is helpful to you, please cite it as:</p>
   year={2024},
   volume={61},
   number={4},
-  pages={1-19},
+  pages={103687},
   doi={10.1016/j.ipm.2024.103687}}"><pre class="notranslate"><code>@ARTICLE{Tang_2024_FATFusion,
   author={Tang, Wei and He, Fazhi},
   journal={Information Processing & Management}, 
@@ -40,7 +40,7 @@ If this work is helpful to you, please cite it as:</p>
   year={2024},
   volume={61},
   number={4},
-  pages={1-19},
+  pages={103687},
   doi={10.1016/j.ipm.2024.103687}}
 </code></pre></div>
 
